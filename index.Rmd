@@ -1,6 +1,6 @@
 --- 
 title: "Population Science in R"
-author: "Francisco Rowe, Fran Darlignton-Pollock"
+author: "Francisco Rowe, Fran Darlington-Pollock"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
