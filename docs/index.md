@@ -12,6 +12,6 @@ github-repo: fcorowe/ps
 description: "Book for Population Science using R computational notebooks"
 ---
 
-# Population Science in R
+# Preface
 
 Write Preface to the book

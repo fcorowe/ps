@@ -3,6 +3,7 @@
 - [Francisco Rowe](http://www.franciscorowe.com/)
 - [Fran Darlington-Pollock]()
 
+Book site: https://fcorowe.github.io/ps/
 
 This is a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
