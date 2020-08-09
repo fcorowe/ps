@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "Population Science in R"
+author: "Francisco Rowe"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
