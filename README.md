@@ -24,5 +24,5 @@ For Tufte static:
 Compile pdf
 > bookdown::render_book('index.Rmd', bookdown::pdf_book(keep_tex = TRUE))
 
-You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
+More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
 
