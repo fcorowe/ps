@@ -26,3 +26,10 @@ Compile pdf
 
 More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
 
+Ideas for book cover:
+
+* [example 1](http://metrocosm.com/3d-world-population-globe/)
+* [example 2](http://www.statsmapsnpix.com/2018/12/one-degree-of-population.html)
+* [example 3](https://gfycat.com/whisperedembarrassedamericancrocodile)
+* [example 4](https://www.6sqft.com/interactive-3d-map-shows-2000-years-of-urban-growth-around-the-world/)
+
