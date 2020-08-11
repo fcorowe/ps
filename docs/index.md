@@ -1,7 +1,7 @@
 --- 
 title: "Population Science in R"
 author: "Francisco Rowe, Fran Darlington-Pollock"
-date: "2020-08-10"
+date: "2020-08-11"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
