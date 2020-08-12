@@ -26,7 +26,10 @@ Compile pdf
 
 More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
 
-Ideas for book cover:
+## Useful resources
+[Demography course - Johns Hopkins University](http://ocw.jhsph.edu/courses/demographicmethods/lectureNotes.cfm)
+
+## Ideas for book cover:
 
 * [example 1](http://metrocosm.com/3d-world-population-globe/)
 * [example 2](http://www.statsmapsnpix.com/2018/12/one-degree-of-population.html)
