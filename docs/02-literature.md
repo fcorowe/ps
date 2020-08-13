@@ -1,3 +1,3 @@
-# Literature
+# Core Theories in Demography
 
-Here is a review of existing methods.
+Introduce core theories of demography/population / why important for policy development.

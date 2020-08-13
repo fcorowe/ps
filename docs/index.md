@@ -1,7 +1,7 @@
 --- 
 title: "Population Science in R"
 author: "Francisco Rowe, Fran Darlington-Pollock"
-date: "2020-08-11"
+date: "2020-08-13"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -12,6 +12,6 @@ github-repo: fcorowe/ps
 description: "Book for Population Science using R computational notebooks"
 ---
 
-# Preface
+# Introduction
 
-Write Preface to the book
+Introduction to the book
