@@ -1,6 +1,6 @@
 # `PS` - Population Science in R
 
-- [Francisco Rowe](http://www.franciscorowe.com/)[[`@fcorowe`]
+- [Francisco Rowe](http://www.franciscorowe.com/)[`@fcorowe`]
 - [Fran Darlington-Pollock](https://f-darlington-pollock.com)
 
 Book site: https://fcorowe.github.io/ps/
